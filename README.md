@@ -2,7 +2,7 @@
 
 ![Logo](/client/public/r_chat.png)
 
-- Realtime Chatrooms made using React.js , Node.js and Socket.io. Here Socket.io is use to establish a realtime bidirectional communication between users.
+- Realtime Chatrooms made using React.js , Node.js and Socket.io.
 
 - Live - <https://realtime-chatroomss.netlify.app>
 

@@ -8,16 +8,6 @@
 
 
 
-**Front-End:**
-
-- **React.js**
-
-**Back-End:**
-
-- **Node**
-- **Socket.io**
-
-
 ## Authors
 
 - [RH Bandhan](https://github.com/BANDHAN52)
